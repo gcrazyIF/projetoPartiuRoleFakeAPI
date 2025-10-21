@@ -6,7 +6,7 @@
       "nomePacote": "Pacote Guia Nova York",
       "nota": 4.5,
       "dataEstadia": "Estadia: de 18 a 23 Dez.",
-      "preco": "R\$2.065,70"
+      "preco": "2.065,70"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "nomePacote": "Pacote Resort Paris",
       "nota": 4.0,
       "dataEstadia": "Estadia: de 14 a 21 Fev. 26",
-      "preco": "R\$3.564,80"
+      "preco": "3.564,80"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "nomePacote": "Pacote Guia Guatemala",
       "nota": 3.5,
       "dataEstadia": "Estadia: de 12 a 30 Set.",
-      "preco": "R\$1.453,30"
+      "preco": "1.453,30"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "nomePacote": "Pacote Guia Brasil",
       "nota": 5.0,
       "dataEstadia": "Estadia: de 1 a 20 Set.",
-      "preco": "R\$3.598,90"
+      "preco": "3.598,90"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "nomePacote": "Hotel São Paulo",
       "nota": 4.5,
       "dataEstadia": "Estadia de 3 dias",
-      "preco": "R\$370,80"
+      "preco": "370,80"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "nomePacote": "Pacote Guia Toronto",
       "nota": 5.0,
       "dataEstadia": "Estadia: de 3 a 14 Mar. 26",
-      "preco": "R\$1.340,00"
+      "preco": "1.340,00"
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "nomePacote": "Pacote Resort California",
       "nota": 2.0,
       "dataEstadia": "Estadia: de 12 a 15 Dec.",
-      "preco": "R\$540,60"
+      "preco": "540,60"
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "nomePacote": "Pacote Guia Austrália",
       "nota": 4.5,
       "dataEstadia": "Estadia: de 12 a 22 Dec.",
-      "preco": "R\$1.870,56"
+      "preco": "1.870,56"
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "nomePacote": "Pacote Guia Pernambuco",
       "nota": 5.0,
       "dataEstadia": "Estadia: de 13 a 25 Jul. 26",
-      "preco": "R\$1.890,50"
+      "preco": "1.890,50"
     }
   ]
 }
