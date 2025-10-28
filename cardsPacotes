@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "imageLink": "https://a0.muscache.com/im/pictures/miso/Hosting-1175454379947905292/original/1873def9-5710-403f-b1f1-b2c766f61e31.jpeg?im_w=1200",
+      "nomePacote": "Pacote Guia Nova York",
+      "nota": 4.5,
+      "dataEstadia": "Estadia: de 18 a 23 Dez.",
+      "preco": "2.065,70"
+    },
+    {
+      "id": 2,
+      "imageLink": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/ed/f5/e3/jewel-punta-cana-all.jpg?w=1400&h=-1&s=1",
+      "nomePacote": "Pacote Resort Paris",
+      "nota": 4.0,
+      "dataEstadia": "Estadia: de 14 a 21 Fev. 26",
+      "preco": "3.564,80"
+    },
+    {
+      "id": 3,
+      "imageLink": "https://hoteisdeluxobrasil.com.br/wp-content/uploads/2021/03/capa-17.jpg",
+      "nomePacote": "Pacote Guia Guatemala",
+      "nota": 3.5,
+      "dataEstadia": "Estadia: de 12 a 30 Set.",
+      "preco": "1.453,30"
+    },
+    {
+      "id": 4,
+      "imageLink": "https://www.dicasdeviagem.com/wp-content/uploads/2022/08/piscina-hardman-praia-joao-pessoa-740x493.jpg",
+      "nomePacote": "Pacote Guia Brasil",
+      "nota": 5.0,
+      "dataEstadia": "Estadia: de 1 a 20 Set.",
+      "preco": "3.598,90"
+    },
+    {
+      "id": 5,
+      "imageLink": "https://www.roteirosdecharme.com.br/wp-content/uploads/2022/02/IMG_4719-1024x683.jpg",
+      "nomePacote": "Hotel São Paulo",
+      "nota": 4.5,
+      "dataEstadia": "Estadia de 3 dias",
+      "preco": "370,80"
+    },
+    {
+      "id": 6,
+      "imageLink": "https://www.hoteisdeluxobrasil.com.br/wp-content/uploads/2020/12/piscina-central915-scaled.jpg",
+      "nomePacote": "Pacote Guia Toronto",
+      "nota": 5.0,
+      "dataEstadia": "Estadia: de 3 a 14 Mar. 26",
+      "preco": "1.340,00"
+    },
+    {
+      "id": 7,
+      "imageLink": "https://i0.wp.com/amantesdeviagens.com/wp-content/uploads/2020/08/Hotel-Palacio-Estoril.jpg?fit=1200%2C758&ssl=1",
+      "nomePacote": "Pacote Resort California",
+      "nota": 2.0,
+      "dataEstadia": "Estadia: de 12 a 15 Dec.",
+      "preco": "540,60"
+    },
+    {
+      "id": 8,
+      "imageLink": "https://forbes.com.br/wp-content/uploads/2017/05/Sofitel-Legend-Santa-Clara-Cartagena-rep-forbes-800x533.jpg",
+      "nomePacote": "Pacote Guia Austrália",
+      "nota": 4.5,
+      "dataEstadia": "Estadia: de 12 a 22 Dec.",
+      "preco": "1.870,56"
+    },
+    {
+      "id": 9,
+      "imageLink": "https://seeninthecity.co.uk/wp-content/uploads/2016/03/12339244_1040472212660764_925191855505320897_o.jpg",
+      "nomePacote": "Pacote Guia Pernambuco",
+      "nota": 5.0,
+      "dataEstadia": "Estadia: de 13 a 25 Jul. 26",
+      "preco": "1.890,50"
+    }
+  ]
